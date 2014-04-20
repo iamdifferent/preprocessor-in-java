@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.params=tagstr
-comment0.target=GenericTag(java.lang.String)
-comment1.params=buf
-comment1.target=void\ docString(Buffer)
-comment1.text=\n\ overrides\ the\ superclass\ method\ \n
-numComments=2
