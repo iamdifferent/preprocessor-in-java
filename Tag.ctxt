@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tag()
+comment1.params=name\ id\ cls
+comment1.target=Tag(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=t
+comment2.target=int\ inner(Tag)
+comment2.text=\n\ add\ an\ inner\ tag\ and\ return\ an\ appropriate\ value\n
+comment3.params=t
+comment3.target=int\ inner(Tag[])
+comment3.text=\n\ add\ a\ list\ of\ inner\ tags\ and\ return\ an\ appropriate\ value\n\ can\ be\ overridden\ in\ subclasses\n
+comment4.params=nam\ val
+comment4.target=int\ prop(java.lang.String,\ java.lang.String)
+comment4.text=\n\ set\ a\ property\ and\ return\ an\ appropriate\ value\n\ can\ be\ overridden\ in\ subclasses\n
+comment5.params=nam\ val
+comment5.target=int\ prop(java.lang.String[],\ java.lang.String[])
+comment5.text=\n\ set\ properties\ and\ return\ an\ appropriate\ value\n\ can\ be\ overridden\ in\ subclasses\n
+comment6.params=sname
+comment6.target=void\ Add(java.lang.String)
+comment7.params=buf
+comment7.target=void\ docString(Buffer)
+comment7.text=\n\ Generates\ the\ entire\ html\ content\ for\ the\ tag,\ recursively\ finding\ content\ for\ inner\ tags\n\ Puts\ the\ inner\ tag\ content\ at\ "inner"\ insertion\ point\ of\ the\ input\ buffer\n\ Puts\ the\ propeties\ content\ at\ "property"\ insertion\ point\ of\ the\ input\ buffer\n
+numComments=8

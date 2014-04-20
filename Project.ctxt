@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=dir
+comment0.target=Project(java.lang.String)
+comment1.params=dir
+comment1.target=void\ setDir(java.lang.String)
+comment1.text=\n\ set\ methods\ for\ directory\ and\ stylesheet\n
+comment2.params=s
+comment2.target=void\ setStylesheet(StyleSheet)
+comment3.params=htd
+comment3.target=void\ addDoc(HTMLDoc)
+comment3.text=\n\ add\ html\ document\ to\ the\ project\n
+comment4.params=
+comment4.target=HTMLDoc\ getIndex()
+comment4.text=\n\ get\ index\ page\ for\ the\ web\ project\n
+comment5.params=
+comment5.target=int\ build()
+comment5.text=\n\ build\ the\ web\ project\n\ create\ directories,\ document\ files,\ stylesheet\ files\n\ return\ an\ appropriate\ value\n
+numComments=6

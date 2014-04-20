@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=tagstr
+comment0.target=TextTag(java.lang.String)
+comment1.params=tagstr\ txt
+comment1.target=TextTag(java.lang.String,\ java.lang.String)
+comment2.params=tagstr\ txt\ cue
+comment2.target=TextTag(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ text()
+comment3.text=\n\ get,\ set\ and\ update\ methods\ for\ text\ content\n
+comment4.params=txt
+comment4.target=void\ text(java.lang.String)
+comment5.params=add
+comment5.target=void\ appendText(java.lang.String)
+comment6.params=buf
+comment6.target=void\ docString(Buffer)
+comment6.text=\n\ overrides\ the\ superclass\ method\ \n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=fname
+comment0.target=jsfunc(java.lang.String)
+comment1.params=sname\ value
+comment1.target=jsfunc(java.lang.String,\ boolean)
+numComments=2

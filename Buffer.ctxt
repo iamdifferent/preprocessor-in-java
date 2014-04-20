@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=kv
+comment0.target=Key(int)
+comment1.params=
+comment1.target=int\ getValue()
+comment1.text=\n\ get\ and\ update\ methods\ for\ index\n
+comment2.params=kv
+comment2.target=void\ update(int)
+comment3.params=size
+comment3.target=Buffer(int)
+comment4.params=buffer
+comment4.target=Buffer(java.lang.String)
+comment5.params=input\ length
+comment5.target=Buffer(java.lang.String,\ int)
+comment6.params=key\ val
+comment6.target=void\ addKey(java.lang.String,\ int)
+comment6.text=\n\ add\ a\ new\ named\ insertion\ point\ to\ the\ buffer\n
+comment7.params=key\ txt
+comment7.target=void\ addString(java.lang.String,\ java.lang.String)
+comment7.text=\n\ add\ text\ to\ the\ given\ named\ insertion\ point\n
+comment8.params=id\ offset
+comment8.target=void\ updateMap(int,\ int)
+comment8.text=\n\ update\ insertion\ points\ when\ a\ new\ text\ is\ added\ to\ the\ buffer\n
+comment9.params=
+comment9.target=java.lang.String\ getBuffer()
+comment9.text=\n\ return\ buffer\ string\ \n
+numComments=10

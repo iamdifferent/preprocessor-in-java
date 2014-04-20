@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=proj
+comment0.target=StyleSheet(Project)
+comment1.params=proj\ filename
+comment1.target=StyleSheet(Project,\ java.lang.String)
+comment2.params=s
+comment2.target=void\ insert(Style)
+comment3.params=
+comment3.target=void\ make()
+numComments=4
